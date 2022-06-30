@@ -12,7 +12,7 @@ setup(
 		version =__version__,
 		author ='Bermet Eshimbekova ',
 		author_email ='beshimbekova@gmail.com',
-		url ='https://github.com/bermete/Homework/tree/final_task',
+		url ='https://github.com/bermete/Homework/tree/final_task/BermetEshimbekova/rss_reader',
 		description ='Final task. RSS reader',
 		long_description = description,
 		long_description_content_type ="text/markdown",
